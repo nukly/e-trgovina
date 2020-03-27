@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-trgovina/static/css/main.4b35179e.chunk.css",
+    "main.js": "/e-trgovina/static/js/main.bb6fdcb6.chunk.js",
+    "main.js.map": "/e-trgovina/static/js/main.bb6fdcb6.chunk.js.map",
+    "runtime-main.js": "/e-trgovina/static/js/runtime-main.be77a541.js",
+    "runtime-main.js.map": "/e-trgovina/static/js/runtime-main.be77a541.js.map",
+    "static/js/2.39977716.chunk.js": "/e-trgovina/static/js/2.39977716.chunk.js",
+    "static/js/2.39977716.chunk.js.map": "/e-trgovina/static/js/2.39977716.chunk.js.map",
+    "index.html": "/e-trgovina/index.html",
+    "precache-manifest.8d72b9dd3ac2563a392130ce371ae5e5.js": "/e-trgovina/precache-manifest.8d72b9dd3ac2563a392130ce371ae5e5.js",
+    "service-worker.js": "/e-trgovina/service-worker.js",
+    "static/css/main.4b35179e.chunk.css.map": "/e-trgovina/static/css/main.4b35179e.chunk.css.map",
+    "static/js/2.39977716.chunk.js.LICENSE.txt": "/e-trgovina/static/js/2.39977716.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be77a541.js",
+    "static/js/2.39977716.chunk.js",
+    "static/css/main.4b35179e.chunk.css",
+    "static/js/main.bb6fdcb6.chunk.js"
+  ]
+}
