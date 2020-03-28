@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63a162de82d7f4d3ba6f360de6ab16a7",
+    "revision": "522f97ee22513dce4d389f07a0fea896",
     "url": "/e-trgovina/index.html"
   },
   {
-    "revision": "caf62ebda43d31c779f2",
-    "url": "/e-trgovina/static/css/main.b12c684c.chunk.css"
+    "revision": "42d4156aa416d563437f",
+    "url": "/e-trgovina/static/css/main.00201ad1.chunk.css"
   },
   {
-    "revision": "6928b6787f57e14b726f",
-    "url": "/e-trgovina/static/js/2.f1756d1f.chunk.js"
+    "revision": "f7fde5b7a5430b31fa8b",
+    "url": "/e-trgovina/static/js/2.fe9dbff4.chunk.js"
   },
   {
     "revision": "ad61e5a3703d8af976e070e9896b739a",
-    "url": "/e-trgovina/static/js/2.f1756d1f.chunk.js.LICENSE.txt"
+    "url": "/e-trgovina/static/js/2.fe9dbff4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "caf62ebda43d31c779f2",
-    "url": "/e-trgovina/static/js/main.4e6e0667.chunk.js"
+    "revision": "42d4156aa416d563437f",
+    "url": "/e-trgovina/static/js/main.66b1c765.chunk.js"
   },
   {
     "revision": "bb8924149015b4579399",
