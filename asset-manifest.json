@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/e-trgovina/static/css/main.edd419fd.chunk.css",
-    "main.js": "/e-trgovina/static/js/main.b5e0b4b0.chunk.js",
-    "main.js.map": "/e-trgovina/static/js/main.b5e0b4b0.chunk.js.map",
-    "runtime-main.js": "/e-trgovina/static/js/runtime-main.be77a541.js",
-    "runtime-main.js.map": "/e-trgovina/static/js/runtime-main.be77a541.js.map",
-    "static/js/2.5da61a7e.chunk.js": "/e-trgovina/static/js/2.5da61a7e.chunk.js",
-    "static/js/2.5da61a7e.chunk.js.map": "/e-trgovina/static/js/2.5da61a7e.chunk.js.map",
+    "main.css": "/e-trgovina/static/css/main.13820d97.chunk.css",
+    "main.js": "/e-trgovina/static/js/main.989bdd33.chunk.js",
+    "main.js.map": "/e-trgovina/static/js/main.989bdd33.chunk.js.map",
+    "runtime-main.js": "/e-trgovina/static/js/runtime-main.2e391fa4.js",
+    "runtime-main.js.map": "/e-trgovina/static/js/runtime-main.2e391fa4.js.map",
+    "static/js/2.37b2db44.chunk.js": "/e-trgovina/static/js/2.37b2db44.chunk.js",
+    "static/js/2.37b2db44.chunk.js.map": "/e-trgovina/static/js/2.37b2db44.chunk.js.map",
     "index.html": "/e-trgovina/index.html",
-    "precache-manifest.66ba06f222ccf3852a9aace064bd075b.js": "/e-trgovina/precache-manifest.66ba06f222ccf3852a9aace064bd075b.js",
+    "precache-manifest.d7395f3366e6f0274f4d27a88aafda17.js": "/e-trgovina/precache-manifest.d7395f3366e6f0274f4d27a88aafda17.js",
     "service-worker.js": "/e-trgovina/service-worker.js",
-    "static/css/main.edd419fd.chunk.css.map": "/e-trgovina/static/css/main.edd419fd.chunk.css.map",
-    "static/js/2.5da61a7e.chunk.js.LICENSE.txt": "/e-trgovina/static/js/2.5da61a7e.chunk.js.LICENSE.txt",
-    "static/media/cart.30f07071.svg": "/e-trgovina/static/media/cart.30f07071.svg",
-    "static/media/krona.ed28accb.svg": "/e-trgovina/static/media/krona.ed28accb.svg"
+    "static/css/main.13820d97.chunk.css.map": "/e-trgovina/static/css/main.13820d97.chunk.css.map",
+    "static/js/2.37b2db44.chunk.js.LICENSE.txt": "/e-trgovina/static/js/2.37b2db44.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/e-trgovina/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/e-trgovina/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be77a541.js",
-    "static/js/2.5da61a7e.chunk.js",
-    "static/css/main.edd419fd.chunk.css",
-    "static/js/main.b5e0b4b0.chunk.js"
+    "static/js/runtime-main.2e391fa4.js",
+    "static/js/2.37b2db44.chunk.js",
+    "static/css/main.13820d97.chunk.css",
+    "static/js/main.989bdd33.chunk.js"
   ]
 }
